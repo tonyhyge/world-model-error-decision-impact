@@ -1,0 +1,7 @@
+# Direct dependencies of the recorded macOS CPU run; see manifest for platform.
+numpy==2.4.6
+scipy==1.17.1
+torch==2.13.0
+gymnasium==1.3.0
+matplotlib==3.11.0
+pytest==9.0.3
